@@ -1,0 +1,7 @@
+{
+  "name": "ts-editorconfig",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "nutsjian",
+  "license": "MIT"
+}
